@@ -300,10 +300,6 @@ We welcome contributions to improve this project\! Please follow these steps:
 * Documentation updates  
 * Bug fixes and optimizations
 
-## **📝 License**
-
-This project is licensed under the MIT License \- see the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
-
 ## **📚 References & Resources**
 
 ### **Academic & Industry Sources**
