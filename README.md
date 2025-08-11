@@ -327,7 +327,7 @@ This project is licensed under the MIT License \- see the [LICENSE](https://clau
 
 For questions, suggestions, or collaboration opportunities:
 
-* **Project Repository**: [GitHub Repository](https://github.com/your-username/ev-trends-prediction)  
+* **Project Repository**: [GitHub Repository]([https://github.com/your-username/ev-trends-prediction](https://github.com/abhioriganti/Predicting-EV-Trends-and-Charging-Needs))  
 
 
 ---
